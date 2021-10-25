@@ -1,34 +1,39 @@
-h1 {
+a {
+  text-decoration: none;
+}
+
+.page-title {
   text-align: center;
   font-size: 24px;
 }
-p {
+.text {
   font-size: 120%;
 }
-a.one:link {
+
+.link-one {
   color: blue;
 }
-a.one:visited {
+.link-one:visited {
   color: red;
 }
 
-a.two:link {
+.link-two {
   color: rgb(100, 32, 165);
 }
-a.two:visited {
+.link-two:visited {
   color: rgb(216, 87, 87);
 }
 
-a.three:link {
+.link-three {
   color: rgb(26, 26, 53);
 }
-a.three:visited {
+.link-three:visited {
   color: rgb(105, 4, 4);
 }
 
-a.four:link {
+.link-four {
   color: rgb(58, 58, 247);
 }
-a.four:visited {
+.link-four:visited {
   color: rgb(99, 34, 34);
 }
