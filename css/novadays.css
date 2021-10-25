@@ -1,0 +1,21 @@
+.main-title {
+  text-align: center;
+  font-size: 22px;
+}
+.back-main {
+  font-style: italic;
+}
+.sec-title {
+  text-align: center;
+}
+.grey-list-background {
+  background-color: grey;
+  color: tomato;
+}
+.white-list-background {
+  background-color: white;
+  color: yellowgreen;
+}
+a {
+  text-decoration: none;
+}
