@@ -1,0 +1,34 @@
+h1 {
+  text-align: center;
+  font-size: 24px;
+}
+p {
+  font-size: 120%;
+}
+a.one:link {
+  color: blue;
+}
+a.one:visited {
+  color: red;
+}
+
+a.two:link {
+  color: rgb(100, 32, 165);
+}
+a.two:visited {
+  color: rgb(216, 87, 87);
+}
+
+a.three:link {
+  color: rgb(26, 26, 53);
+}
+a.three:visited {
+  color: rgb(105, 4, 4);
+}
+
+a.four:link {
+  color: rgb(58, 58, 247);
+}
+a.four:visited {
+  color: rgb(99, 34, 34);
+}
