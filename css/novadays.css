@@ -10,11 +10,17 @@
 }
 .grey-list-background {
   background-color: grey;
-  color: tomato;
+  color: darkred;
 }
 .white-list-background {
   background-color: white;
   color: yellowgreen;
+}
+.cursor {
+  cursor: pointer;
+}
+.fthbckgr {
+  background-color: seagreen;
 }
 a {
   text-decoration: none;
