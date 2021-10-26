@@ -14,39 +14,38 @@
 .cnt:active {
   color: yellow;
 }
-article {
+section {
   font-size: 120%;
 }
-#C1 {
-  background-color: tomato;
+.sec-one {
+  background-color: blue;
+  color: red;
 }
-#C2 {
-  background-color: rgb(19, 212, 148);
+.sec-two {
+  background-color: black;
+  color: white;
 }
-#C3 {
-  background-color: rgb(119, 40, 26);
+.sec-three {
+  background-color: green;
+  color: yellow;
 }
-#C4 {
-  background-color: rgb(48, 163, 19);
+.sec-four {
+  background-color: orangered;
+  color: black;
 }
-#C5 {
-  background-color: rgb(30, 163, 90);
-}
-.arc1 {
-  color: rgb(30, 163, 90);
-}
-.arc2 {
-  color: rgb(30, 163, 90);
-}
-.arc3 {
-  color: rgb(30, 163, 90);
-}
-.arc4 {
-  color: rgb(30, 163, 90);
-}
-.arc5 {
-  color: rgb(30, 163, 90);
+.sec-five {
+  background-color: violet;
+  color: blue;
 }
 .btc {
   font-weight: 600;
+}
+.headers {
+  font-size: 120%;
+}
+a {
+  text-decoration: none;
+}
+.up {
+  text-transform: uppercase;
 }
